@@ -1,7 +1,10 @@
 
 The very first of the trio of repo sequence on ib implementation around newcomb like problems.
-The next ones are https://github.com/ZKMathquant/ibrl/tree/main
-and lastly, https://github.com/ZKMathquant/ibestrl/tree/main 
+
+The next ones are 
+- https://github.com/ZKMathquant/ibrl/tree/main
+  
+- and lastly, https://github.com/ZKMathquant/ibestrl/tree/main 
 
 And there is another educational repo with resources,mathematics of ib,paper implementations and experimental 
 validations of theorical experiments like ib superseding classical agents 
