@@ -11,9 +11,10 @@ To compare these 3 repos and how each of them can inspire the content of your ow
 
   [https://gist.github.com/ZKMathquant/85df39e1ffcc5c10bdc035a56e560df2](https://gist.github.com/ZKMathquant/85df39e1ffcc5c10bdc035a56e560df2)
 
-And there is another educational repo with resources,mathematics of ib,paper implementations and experimental 
-validations of theorical experiments like ib superseding classical agents 
-https://github.com/ZKMathquant/Solving-IB-and-coding-RL-agents-getting-hands-on
+And there is another educational repo with resources,mathematics of ib,paper implementations and experimental validations of theorical experiments like ib superseding classical agents https://github.com/ZKMathquant/Solving-IB-and-coding-RL-agents-getting-hands-on containing notebooks for ib vs classical , and implementaion of neurips paper
+
+- https://github.com/ZKMathquant/Solving-IB-and-coding-RL-agents-getting-hands-on/blob/main/classicalvsib/experimental_validation/Experimental_validation_with_theoritical_guarantees_classical_vs_ib_rl.ipynb
+- https://github.com/ZKMathquant/Solving-IB-and-coding-RL-agents-getting-hands-on/blob/main/rlagents/neurips_newcombrl_implementation.ipynb
 
 
 ## License
