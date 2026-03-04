@@ -15,10 +15,37 @@ And there is another educational repo with resources,mathematics of ib,paper imp
 validations of theorical experiments like ib superseding classical agents 
 https://github.com/ZKMathquant/Solving-IB-and-coding-RL-agents-getting-hands-on
 
+
 ## License
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL).
 # See LICENSE file in the project root for full license text.
+
+## Reproducable usage instructions:
+
+(Installation and how to run)
+
+```
+git clone https://github.com/your-repo/infrabayesrl.git
+cd infrabayesrl
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pytest tests/ -v
+python -m examples.basic_usage
+python -m examples.newcomb_comparison
+python -m examples.run_experiments
+mkdir plots
+cp -r experiments/results plots
+file experiments/results/*.png
+file plots/*.png
+```
+
+# Install image viewers and view in GUI
+```
+sudo apt install feh imagemagick
+feh plots/*.png
+```
 
 ### Third‑Party Code and copyright notice
 Portions of this project are adapted from [norabelrose/infrabayes](https://github.com/norabelrose/infrabayes),
@@ -58,29 +85,7 @@ Infrabayesian RL succeeds by:
 - Taking minimum over expected values (pessimistic approach)
 - Naturally leading to cooperative strategies
 
-## Installation and how to run
 
-```
-git clone https://github.com/your-repo/infrabayesrl.git
-cd infrabayesrl
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-pytest tests/ -v
-python -m examples.basic_usage
-python -m examples.newcomb_comparison
-python -m examples.run_experiments
-mkdir plots
-cp -r experiments/results plots
-file experiments/results/*.png
-file plots/*.png
-```
-
-# Install image viewers and view in GUI
-```
-sudo apt install feh imagemagick
-feh plots/*.png
-```
 
 ## Find the plots here obtained in this project,below:
 
