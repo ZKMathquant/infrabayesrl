@@ -5,8 +5,11 @@ The next ones are
 - https://github.com/ZKMathquant/ibrl/tree/main
   
 - and lastly, https://github.com/ZKMathquant/ibestrl/tree/main
+- 
              To compare these 3 repos and how each of them can inspire the content of your own repository, there is a gist article posted here
-  already [https://gist.github.com/ZKMathquant/85df39e1ffcc5c10bdc035a56e560df2](https://gist.github.com/ZKMathquant/85df39e1ffcc5c10bdc035a56e560df2)
+  already
+
+  [https://gist.github.com/ZKMathquant/85df39e1ffcc5c10bdc035a56e560df2](https://gist.github.com/ZKMathquant/85df39e1ffcc5c10bdc035a56e560df2)
 
 And there is another educational repo with resources,mathematics of ib,paper implementations and experimental 
 validations of theorical experiments like ib superseding classical agents 
